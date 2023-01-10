@@ -21,8 +21,8 @@ module.exports = {
   // If you get invalid oauth, make sure on the discord developer page you set the oauth url to something like: https://example.com/api/callback.
 
   Presence: {
-    status: "online", // You can show online, idle, and dnd
-    name: "Music", // The message shown
+    status: "dnd", // You can show online, idle, and dnd
+    name: "My Love Is Gone 💔", // The message shown
     type: "LISTENING", // PLAYING, WATCHING, LISTENING, STREAMING
   },
 
